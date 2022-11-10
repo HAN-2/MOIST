@@ -1,4 +1,4 @@
-# FCSWHI
+# AQUAFIC (FCSWHI)
 Codes for theoretical tests, semi-analytical tests, and lysimeter validations
 
 These codes are urgly, but useful. They are only guarented to regenerate the results in the manuscript.
