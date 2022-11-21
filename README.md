@@ -6,4 +6,5 @@ They are only guarented to regenerate the results in the manuscript.
 If you have any questions, please send an email to Han (haf033@usask.ca).
 
 # HOW TO RUN THESE CODES:
-Each scenario has a 'Main_program' file. It is runable when all the function files are located in the same path.
+Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when all the function files are located in the same path.
+(If there are both 'Main_profram' and 'Main_program_2', 'Main_program_2' is preferred)
