@@ -3,6 +3,7 @@
 Codes for theoretical tests, semi-analytical tests, and lysimeter validations
 
 They are only guarented to regenerate the results in the manuscript.
-For your own simulation, please send problem descriptions to Han (haf033@usask.ca)
+If you have any questions, please send an email to Han (haf033@usask.ca).
 
-# HOW TO RUN THESE CODES
+# HOW TO RUN THESE CODES:
+Each scenario has a 'Main_function' file. It is runable when all the function files are located in the same path.
