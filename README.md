@@ -17,3 +17,17 @@ Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when 
 (If there are both 'Main_profram' and 'Main_program_2', 'Main_program_2' is preferred)
 
 # MAIN OUTPUT VARIABLES:
+z_theta: output of soil water content profiles
+z_cil: output of isotope profiles
+z_T: output of temperature profiles
+z_h: output of soil water head profiles
+z_qevap: evaporation flux matrix
+z_dt: time step matrix
+
+
+
+for semi-analytical tests:
+zBA1: results of isotope profiles under isotherm and saturated conditions
+zBA: results of isotope profiles under non-isotherm and non-saturated conditions
+
+
