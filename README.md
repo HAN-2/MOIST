@@ -10,7 +10,7 @@ HBLFA:https://www.pc-progress.com/en/Default.aspx?h1d-lib-isotope
 
 
 # HOW TO RUN THESE CODES:
-Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when all the function files are located in the same path.<br>
+Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when all the function files are located under the same path.<br>
 (If there are both 'Main_profram' and 'Main_program_2', 'Main_program_2' is preferred)
 
 # MAIN OUTPUT VARIABLES:<br>
@@ -36,5 +36,7 @@ for semi-analytical tests:<br>
 zBA1: results of isotope profiles under isotherm and saturated conditions<br>
 
 zBA:  results of isotope profiles under non-isotherm and non-saturated conditions<br>
+
+# HOW TO PREPARE DATA:
 
 # HOW TO PLOT:
