@@ -1,5 +1,5 @@
 # MOIST--a Matlab based One-dimensional Isotope and Soil water Transport model
-(Note: the update of this guide will be slow because I do not have time to write it in detail. However, I will try my best to explain the variables and finish this instructions. If you have any questions, you are welcome to send an email to haf033@usask.ca and please use MOIST in the subject. Thank you for your interest!)
+(Note: the update of this guide will be slow because I do not have time to write it in detail. However, I will try my best to explain the variables and finish this instruction. If you have any questions, you are welcome to send an email to haf033@usask.ca and please use MOIST in the subject. Thank you for your interest!)
 
 
 Codes for theoretical tests, semi-analytical tests, and lysimeter validations<br>
