@@ -2,9 +2,7 @@
 (Note: the update of this guide will be slow because I do not have time to write it in detail. However, I will try my best to explain the variables and finish this instruction. If you have any questions, you are welcome to send an email to haf033@usask.ca and please use MOIST in the subject. Thank you for your interest!)
 
 
-Codes for theoretical tests, semi-analytical tests, and lysimeter validations<br>
-
-They are only guarented to regenerate the results in the manuscript. If you have any further questions, welcome to send an email to Han.
+Codes for theoretical tests, semi-analytical tests, and lysimeter validations. They are only guarented to regenerate the results in the manuscript. If you have any further questions, welcome to send an email to Han.
 
 Validation data<br>
 EPFL:https://zenodo.org/record/4037240#.Y029l3bMKUk<br>
