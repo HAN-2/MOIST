@@ -17,7 +17,7 @@ Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when 
 
 # MAIN OUTPUT VARIABLES:<br>
 There are plenty of output variables after the program is end. Following variables could be considered the most important. <br>
-More explainations are updating.... <br>
+More explainations about variables will be graduately updated. <br>
 
 
 z_theta: output of soil water content profiles<br>
