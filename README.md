@@ -4,8 +4,7 @@
 
 Codes for theoretical tests, semi-analytical tests, and lysimeter validations<br>
 
-They are only guarented to regenerate the results in the manuscript.
-If you have any questions, please send an email to Han (haf033@usask.ca).
+They are only guarented to regenerate the results in the manuscript. If you have any further questions, welcome to send an email to Han.
 
 Validation data<br>
 EPFL:https://zenodo.org/record/4037240#.Y029l3bMKUk<br>
