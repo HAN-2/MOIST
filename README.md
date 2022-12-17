@@ -16,7 +16,7 @@ Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when 
 (If there are both 'Main_profram' and 'Main_program_2', 'Main_program_2' is preferred)
 
 # MAIN OUTPUT VARIABLES:<br>
-There are plenty of output variables after the program is end. Following variables could be considered the most important. <br>
+There are plenty of output variables after the calculation is done. Following variables could be considered the most important. <br>
 More explainations about variables will be graduately updated. <br>
 
 
