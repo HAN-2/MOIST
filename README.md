@@ -38,6 +38,24 @@ zBA1: results of isotope profiles under isotherm and saturated conditions<br>
 zBA:  results of isotope profiles under non-isotherm and non-saturated conditions<br>
 
 # HOW TO PREPARE DATA:
+Generrally, all needed data are integrated into on excel file, like 'Magali.xlsx' and 'stumpp.xlsx' in short and long term validation folders, respectively. <br>
+There are four sections:<br>
+Rain_record:<br>
+A and B column are the start and end points of each time interal (in second), repectively.<br>
+C column is the rainfall amount within each time interval.<br>
+
+Daily_climate_record:<br>
+this section is usually arranged as:<br>
+
+|A |B |C	|D	|E	|F	|G	|H	|I	|J|
+|Month	|Day	|Year	|Tmax	|Tmin	|Tavg	|sunshinehour(h)	|Daily_rh	|u (m/s)	|solar  radiation(W/m2)	|
+
+
+
+initial_condition<br>
+
+Rainfall_isotope<br>
+
 
 # WHEN THE CODE IS RUNNING:
 
