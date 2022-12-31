@@ -39,4 +39,6 @@ zBA:  results of isotope profiles under non-isotherm and non-saturated condition
 
 # HOW TO PREPARE DATA:
 
+# When THE CODE RUNS:
+
 # HOW TO PLOT:
