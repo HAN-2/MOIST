@@ -1,5 +1,5 @@
 # MOIST--a Matlab based One-dimensional Isotope and Soil water Transport model
-(Note: the update of this guide will be slow because I have limited time to write in detail. However, I will try my best to finish this document.)
+(The update of this guide will be slow because I have limited time to write in detail. However, I will try my best to finish this document.)
 
 
 Codes for theoretical tests, semi-analytical tests, and lysimeter validations. They are only guarented to regenerate the results in the manuscript ('Title of the manuscript will appear here').<br>
