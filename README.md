@@ -36,7 +36,7 @@ zBA1: results of isotope profiles under isotherm and saturated conditions<br>
 zBA:  results of isotope profiles under non-isotherm and non-saturated conditions<br>
 
 # HOW TO PREPARE DATA:
-Generrally, all needed data are integrated into on excel file, like 'Magali.xlsx' and 'stumpp.xlsx' in short and long term validation folders, respectively. <br>
+All needed data are integrated into the EXCEL file, like 'Magali.xlsx' and 'stumpp.xlsx' in short and long term validation folders, respectively. <br>
 There are four sections:<br>
 ##'Rain_record':<br>
 A and B column are the start and end points of each time interal (in second), repectively.<br>
@@ -49,7 +49,7 @@ D -->Tmax; E -->Tmin; F -->Tavg<br>
 G -->sunshinehour(h); H -->Daily_rh; I -->u (m/s)<br>	
 J -->solar  radiation(W/m2)<br>
 
-Note that the daily climate input also depends on data availbility, it is not always managed like this.
+Note that the daily climate input also depends on data availbility, it is not always managed as above. You can customize the 'climate_function' according to your own needs (start from 'if X5ip2.day_flag').
 
 ## ‘initial_condition’<br>
 A -->Initial soil water content (m3/m3); B -->Initial temperature profile <br>	
