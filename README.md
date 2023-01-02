@@ -16,7 +16,9 @@ Each scenario has a 'Main_program' or 'Main_program_2' file. It is runable when 
 
 # MAIN OUTPUT VARIABLES:<br>
 There are plenty of output variables after the calculation is done. Following variables could be considered the most important. <br>
-More explainations about variables will be graduately updated. <br>
+More explainations about variables will be updated. <br>
+
+###UPDATING....###
 
 z_theta: output of soil water content profiles<br>
 
@@ -62,7 +64,7 @@ A --> Rainfall amount (m/s)<br>
 B --> isotopic compositions (‰) <br>	
 
 # WHEN THE CODE IS RUNNING:
-When the code is running, there is a dynamic number (%) at the left corner of command window, which is helpful to check if the program is stucked or the time it gonna take. 
+When the code is running, there is a dynamic number (%) at the left corner of command window, which is helpful to check if the program is stucked or the roughly running time. 
 
 # HOW TO PLOT:
 There are plotting commands at the end of main program of the short term validation. Also, I will post the commands here to illustrate how to extract temporal and spatial soil water and isotope data for further visualization.
