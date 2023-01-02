@@ -65,5 +65,6 @@ A --> Rainfall amount (m/s)<br>
 B --> isotopic compositions (‰) <br>	
 
 # WHEN THE CODE IS RUNNING:
+WHen the code is running, there is a dynamic number (%) at the left corner of command window, which is helpful to check if the program is stucked or the time it gonna take. 
 
 # HOW TO PLOT:
