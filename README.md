@@ -47,28 +47,17 @@ C column is the rainfall amount within each time interval.<br>
 ## 'Daily_climate_record':<br>
 this section is usually arranged as:<br>
 
-A--Month<br>	
-B--Day<br>	
-C--Year<br>	
-D--Tmax<br>	
-E--Tmin<br>	
-F--Tavg<br>	
-G--sunshinehour(h)<br>	
-H--Daily_rh<br>	
-I--u (m/s)<br>	
+A--Month; B--Day; C--Year<br>	
+D--Tmax; E--Tmin; F--Tavg<br>	
+G--sunshinehour(h); H--Daily_rh; I--u (m/s)<br>	
 J--solar  radiation(W/m2)<br>
 
 Note that the daily climate input also depends on data availbility, it is not always managed like this.
 
-
-
 ## ‘initial_condition’<br>
 
-A--Initial soil water content (m3/m3)<br>	
-B--Initial temperature profile <br>	
-C-- emplty column <br>	
-D-- Initial soil water isotoic compositions <br>	
-
+A--Initial soil water content (m3/m3); B--Initial temperature profile <br>	
+C-- emplty column; D-- Initial soil water isotoic compositions <br>	
 
 
 ## 'Rainfall_isotope'<br>
