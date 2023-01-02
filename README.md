@@ -49,11 +49,13 @@ D -->Tmax; E -->Tmin; F -->Tavg<br>
 G -->sunshinehour(h); H -->Daily_rh; I -->u (m/s)<br>	
 J -->solar  radiation(W/m2)<br>
 
-Note that the daily climate input also depends on data availbility, it is not always managed as above. You can customize the 'climate_function' according to your own needs (start from 'if X5ip2.day_flag').
+Note that the daily climate input also depends on data availbility, it is not always managed as above. You can customize the 'climate_function' according to your own needs (start from 'if X5ip2.day_flag'). The length of each column should be equal. If there are missing data, intrepolation can be considered.
 
 ## ‘initial_condition’<br>
 A -->Initial soil water content (m3/m3); B -->Initial temperature profile <br>	
 C --> emplty column; D --> Initial soil water isotoic compositions <br>	
+
+The length of each column should be equal and consistent to the intervals that assigned from main program.
 
 ## 'Rainfall_isotope'<br>
 A --> Rainfall amount (m/s)<br>	
@@ -63,3 +65,4 @@ B --> isotopic compositions (‰) <br>
 When the code is running, there is a dynamic number (%) at the left corner of command window, which is helpful to check if the program is stucked or the time it gonna take. 
 
 # HOW TO PLOT:
+There are plotting commands at the end of main program of the short term validation. Also, I will post the commands here to illustrate how to extract temporal and spatial soil water and isotope data for further visualization.
